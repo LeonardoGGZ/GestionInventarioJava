@@ -1,13 +1,12 @@
 # GestionInventarioJava
 
-Lo que puede hacer:
+Lo que puede hacer:/n
+ *Añadir productos a stock en inventario/n
+ *Eliminar productos de stock/n
+ *Actualizar los datos de los productos/n
+ *Consultar inventario/n/n
  
- *Añadir productos a stock en inventario
- *Eliminar productos de stock
- *Actualizar los datos de los productos
- *Consultar inventario
+ Se busca añadir funcionalidades:/n/n
  
- Se busca añadir funcionalidades:
- 
- *Generar informes de stock, llevar el control de fechas de ingreso de inventario.
- *Generar alertas sobre fechas de vencimiento
+ *Generar informes de stock, llevar el control de fechas de ingreso de inventario./n
+ *Generar alertas sobre fechas de vencimiento/n
